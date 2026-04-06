@@ -99,12 +99,23 @@ flutter run
 **Target MVP:** 8 weeks
 **Team:** Wayne + Vincent
 
+### MVP Checklist
+See [MVP-CHECKLIST.md](MVP-CHECKLIST.md) for complete feature breakdown.
+
+**5 Phases:**
+1. **Week 1-2:** Core Loop (grid, 1 tower, 1 enemy, win/lose)
+2. **Week 3-4:** Merge System (4 towers, 6 hybrids)
+3. **Week 5-6:** Content (5 levels, 4 enemies, elementals)
+4. **Week 7:** Polish (visual, audio, UI, performance)
+5. **Week 8:** Launch (playtest, TestFlight + Play Beta)
+
 ### Milestones
 - [x] Idea validated (7.5/10)
 - [x] PRD complete (v1.0)
 - [x] Technical design complete
 - [x] Merge system designed (16+ towers)
 - [x] Elemental system designed
+- [x] MVP checklist created
 - [ ] Flutter + Flame setup
 - [ ] Core prototype (grid, towers, enemies)
 - [ ] Merge mechanic implementation
